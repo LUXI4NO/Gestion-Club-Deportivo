@@ -1,0 +1,5 @@
+C:\Users\luciano\Documents\SharpDevelop Projects\Club Deportivo\Club Deportivo\obj\Debug\Club Deportivo.csprojResolveAssemblyReference.cache
+C:\Users\luciano\Documents\SharpDevelop Projects\Club Deportivo\Club Deportivo\bin\Debug\Club Deportivo.exe
+C:\Users\luciano\Documents\SharpDevelop Projects\Club Deportivo\Club Deportivo\bin\Debug\Club Deportivo.pdb
+C:\Users\luciano\Documents\SharpDevelop Projects\Club Deportivo\Club Deportivo\obj\Debug\Club Deportivo.exe
+C:\Users\luciano\Documents\SharpDevelop Projects\Club Deportivo\Club Deportivo\obj\Debug\Club Deportivo.pdb
